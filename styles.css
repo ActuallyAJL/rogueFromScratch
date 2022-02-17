@@ -1,0 +1,14 @@
+button {
+    height: 100px;
+    width: 100px;
+    /* radius: 15px; */
+    border: solid 5px darkgreen;
+    background-color: lightgreen;
+}
+
+.game-window {
+    height: 800px;
+    width: 800px;
+    background-color: black;
+    border: teal solid 8px;
+}
